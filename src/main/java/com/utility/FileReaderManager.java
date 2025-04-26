@@ -32,6 +32,7 @@ public class FileReaderManager {
 	public static void main(String[] args) throws Exception {
 		System.out.println(getDataProperty("browser"));
 		System.out.println(getDataProperty("url"));
+		System.out.println(getDataProperty("loginusername"));
 	}
 
 }
